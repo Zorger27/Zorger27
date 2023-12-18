@@ -3,12 +3,11 @@
 </h1>
 
 <h2 align="left">👨‍💻 About Me:</h2>
-<h3 align="left">I am a Frontend Developer (Vue.js).</h3><br>
-
-<h3 align="left">My languages:</h3>
-
-* English 🇬🇧 - B2
-* Spanish 🇪🇸 - B2
+<b align="left">I am a Frontend Developer (Vue.js) with great experience in Digital Marketing.<br>
+My languages:
+* English 🇬🇧 - Upper-Intermediate (B2)
+* Spanish 🇪🇸 - Upper-Intermediate (B2)
+</b>
 
 
 <h2 align="left">📫 Connect with me:</h2>
