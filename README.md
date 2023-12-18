@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm <a href="https://zorin.expert" target="_blank">Anatolii</a> 👋</h1>
-<h3 align="center">Frontend Developer (Vue.js)</h3>
-<h4 align="center">Languages: 🇬🇧 English - B2 | 🇪🇸 Spanish - B2</h4>
+<h2 align="center">Frontend Developer (Vue.js)</h2>
+<h3 align="center">Languages: 🇬🇧 English - B2 | 🇪🇸 Spanish - B2</h3>
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
