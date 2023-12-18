@@ -3,7 +3,6 @@
 <h3 align="center">Languages: 🇬🇧 English - B2 | 🇪🇸 Spanish - B2</h3>
 
 <h2 align="left">Connect with me:</h2>
-<p align="left">
 <a href="https://www.linkedin.com/in/anatolii-zorin/"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="linkedin" title="Linkedin" /></a>
 
 <h2 align="left">My stack:</h2>
@@ -25,10 +24,15 @@
   <a href="https://slack.com/"> <img src="https://img.shields.io/badge/slack-555?logo=slack&style=for-the-badge" alt="slack" title="slack" /></a>
 </p>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zorger27&theme=buefy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorger27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer+(Vue.js)+from+Ukraine)](https://git.io/typing-svg)
 
-  <a href="https://styled-components.com/"> <img src="https://img.shields.io/badge/styled_components-555?logo=styledcomponents&style=for-the-badge" alt="styled-components" title="styled-components" /></a>
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zorger27&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zorger27&theme=solarized_dark)
 
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
