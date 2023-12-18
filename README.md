@@ -12,7 +12,7 @@ My languages: 🇬🇧 English - B2 | 🇪🇸 Spanish - B2
 <a href="https://www.linkedin.com/in/anatolii-zorin/">
   <img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="linkedin" title="LinkedIn" />
 </a>
-<a href="https://www.youtube.com/channel/UCsjGP6f0oEkXYsjkVbyg-7w">
+<a href="https://www.youtube.com/c/AnatoliiZorin">
   <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" title="Youtube" />
 </a>
 <a href="https://t.me/Zorger27">
@@ -32,6 +32,7 @@ My languages: 🇬🇧 English - B2 | 🇪🇸 Spanish - B2
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
 <h2 align="left">🔥 My Stats:</h2>
+
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zorger27&theme=buefy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorger27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
