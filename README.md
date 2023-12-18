@@ -14,6 +14,7 @@ My languages: 🇬🇧 English - B2 | 🇪🇸 Spanish - B2
 <a href="https://profile.codersrank.io/user/zorger27"><img src="https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=CodersRank&logoColor=white" alt="CodersRank Badge" title="CodersRank"/></a>
 <a href="https://www.youtube.com/c/AnatoliiZorin"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" title="Youtube"/></a>
 <a href="https://facebook.com/Anatoliy.Zorin"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" title="Facebook"/></a>
+<a href="https://pinterest.com/zorger27"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest Badge" title="Pinterest"/></a>
 <a href="https://wa.me/380504411801"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp Badge" title="WhatsApp"/></a>
 <a href="https://t.me/Zorger27"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" title="Telegram"/></a>
 <a href="skype:anatoliy.zorin?chat"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge" title="Skype"/></a>
@@ -59,8 +60,6 @@ My languages: 🇬🇧 English - B2 | 🇪🇸 Spanish - B2
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorger27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-<a href="https://pinterest.com/zorger27"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest Badge" title="Pinterest"/></a>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer+(Vue.js)+from+Ukraine)](https://git.io/typing-svg)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zorger27&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zorger27&theme=buefy)
