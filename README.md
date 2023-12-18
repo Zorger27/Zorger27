@@ -1,11 +1,45 @@
-<h1 align="center">Hi there, I'm <a href="https://zorin.expert" target="_blank">Anatolii</a> 👋</h1>
-<h2 align="center">Frontend Developer (Vue.js)</h2>
-<h3 align="center">Languages: 🇬🇧 English - B2 | 🇪🇸 Spanish - B2</h3>
+<h1 align="center">Hi, I'm <a href="https://zorin.expert" target="_blank">Anatolii</a> 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" alt="Hi"/>
+</h1>
 
-<h2 align="left">Connect with me:</h2>
-<a href="https://www.linkedin.com/in/anatolii-zorin/"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="linkedin" title="Linkedin" /></a>
+<h2 align="left">👨‍💻 About Me:</h2>
+<h3 align="left">
+I am a Frontend Developer (Vue.js).<br>
+My languages: 🇬🇧 English - B2 | 🇪🇸 Spanish - B2
+</h3>
 
-<h2 align="left">My stack:</h2>
+<h2 align="left">📫 Connect with me:</h2>
+<a href="https://www.linkedin.com/in/anatolii-zorin/">
+  <img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="linkedin" title="LinkedIn" />
+</a>
+<a href="https://www.youtube.com/channel/UCsjGP6f0oEkXYsjkVbyg-7w">
+  <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" title="Youtube" />
+</a>
+<a href="https://t.me/Zorger27">
+  <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" title="Telegram" />
+</a>
+
+<h2 align="left">🛠️ Languages and Tools:</h2>
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeSctipt-316192?style=for-the-badge&logo=typescript&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-316192?style=for-the-badge&logo=docker&logoColor=white)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zorger27&theme=buefy)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Zorger27&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorger27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<!--
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer+(Vue.js)+from+Ukraine)](https://git.io/typing-svg)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zorger27&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zorger27&theme=buefy)
+
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-555?logo=html5&style=for-the-badge" alt="html5" title="HTML5" /></a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-555?logo=css3&logoColor=1572B6&style=for-the-badge" alt="css3" title="CSS3" /></a>
@@ -24,19 +58,5 @@
   <a href="https://slack.com/"> <img src="https://img.shields.io/badge/slack-555?logo=slack&style=for-the-badge" alt="slack" title="slack" /></a>
 </p>
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zorger27&theme=buefy)
-
-[//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=Zorger27&layout=compact&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
-
-<!--
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer+(Vue.js)+from+Ukraine)](https://git.io/typing-svg)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zorger27&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zorger27&theme=solarized_dark)
-
-Here are some ideas to get you started:
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 💬 Ask me about ...
-- ⚡ Fun fact: ...
+<img src="https://komarev.com/ghpvc/?username=Zorger27&style=flat-square&color=blue" alt=""/>
 -->
