@@ -20,6 +20,7 @@ My languages: 🇬🇧 English - B2 | 🇪🇸 Spanish - B2
 </a>
 
 <h2 align="left">🛠️ Languages and Tools:</h2>
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeSctipt-316192?style=for-the-badge&logo=typescript&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
@@ -30,9 +31,9 @@ My languages: 🇬🇧 English - B2 | 🇪🇸 Spanish - B2
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 
+<h2 align="left">🔥 My Stats:</h2>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zorger27&theme=buefy)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=Zorger27&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorger27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
@@ -57,6 +58,8 @@ My languages: 🇬🇧 English - B2 | 🇪🇸 Spanish - B2
   <a href="https://www.figma.com/"> <img src="https://img.shields.io/badge/Figma-555?logo=figma&style=for-the-badge" alt="figma" title="Figma" /></a>
   <a href="https://slack.com/"> <img src="https://img.shields.io/badge/slack-555?logo=slack&style=for-the-badge" alt="slack" title="slack" /></a>
 </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Zorger27&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
 
 <img src="https://komarev.com/ghpvc/?username=Zorger27&style=flat-square&color=blue" alt=""/>
 -->
