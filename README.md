@@ -1,6 +1,6 @@
-<h1 style="text-align: center;">Hi there, I'm <a href="https://zorin.expert" target="_blank">Anatolii</a> 👋</h1>
-<h3 style="text-align: center;">Frontend Developer (Vue.js) from Ukraine 🇺🇦</h3>
-
+<h1 align="center">Hi there, I'm <a href="https://zorin.expert" target="_blank">Anatolii</a> 👋</h1>
+<h3 align="center">Frontend Developer (Vue.js) from Ukraine 🇺🇦</h3>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Frontend+Developer+(Vue.js)+from+Ukraine)](https://git.io/typing-svg)
 <!--
 **Zorger27/Zorger27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
