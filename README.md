@@ -3,12 +3,13 @@
 </h1>
 
 <h2 align="left">👨‍💻 About Me:</h2>
-<h3 align="left">
-I am a Frontend Developer (Vue.js).<br>
-My languages: 
-+ 🇬🇧 English - B2
-+ 🇪🇸 Spanish - B2
-</h3>
+<h3 align="left">I am a Frontend Developer (Vue.js).</h3><br>
+
+<h3 align="left">My languages:</h3>
+
+* English 🇬🇧 - B2
+* Spanish 🇪🇸 - B2
+
 
 <h2 align="left">📫 Connect with me:</h2>
 <a href="mailto:zorger27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" title="Gmail"/></a>
