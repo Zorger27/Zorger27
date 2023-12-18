@@ -26,7 +26,7 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Zorger27&theme=buefy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorger27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[//]: # ([![Top Langs]&#40;https://github-readme-stats.vercel.app/api/top-langs/?username=Zorger27&layout=compact&#41;]&#40;https://github.com/anuraghazra/github-readme-stats&#41;)
 
 <!--
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer+(Vue.js)+from+Ukraine)](https://git.io/typing-svg)
