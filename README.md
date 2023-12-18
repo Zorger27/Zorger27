@@ -16,8 +16,8 @@ My languages: 🇬🇧 English - B2 | 🇪🇸 Spanish - B2
 <a href="https://facebook.com/Anatoliy.Zorin"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" title="Facebook"/></a>
 <a href="https://pinterest.com/zorger27"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest Badge" title="Pinterest"/></a>
 <a href="https://t.me/Zorger27"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" title="Telegram"/></a>
-<a href="https://wa.me/380504411801"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp Badge" title="WhatsApp"/></a>
 <a href="skype:anatoliy.zorin?chat"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge" title="Skype"/></a>
+<a href="https://wa.me/380504411801"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp Badge" title="WhatsApp"/></a>
 
 <h2 align="left">🛠️ Languages and Tools:</h2>
 
