@@ -4,7 +4,7 @@
 
 <h2 align="left">👨‍💻 About Me:</h2>
 <b align="left">I am a Frontend Developer (Vue.js) with great experience in Digital Marketing.<br>
-My languages:
+<u>My languages:</u>
   
 * English 🇬🇧 - Upper-Intermediate (B2)
 * Spanish 🇪🇸 - Upper-Intermediate (B2)
@@ -12,14 +12,30 @@ My languages:
 
 
 <h2 align="left">📫 Connect with me:</h2>
-<a href="mailto:zorger27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" title="Gmail"/></a>
-<a href="https://www.linkedin.com/in/anatolii-zorin/"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="linkedin" title="LinkedIn"/></a>
-<a href="https://profile.codersrank.io/user/zorger27"><img src="https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=CodersRank&logoColor=white" alt="CodersRank Badge" title="CodersRank"/></a>
-<a href="https://www.youtube.com/c/AnatoliiZorin"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" title="Youtube"/></a>
-<a href="https://facebook.com/Anatoliy.Zorin"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" title="Facebook"/></a>
-<a href="https://pinterest.com/zorger27"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest Badge" title="Pinterest"/></a>
-<a href="https://wa.me/380504411801"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp Badge" title="WhatsApp"/></a>
-<a href="https://t.me/Zorger27"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" title="Telegram"/></a>
+<a href="mailto:zorger27@gmail.com" title="Write me: Zorger27@GMail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+</a>
+<a href="https://wa.me/380504411801" title="WhatsApp chat with me" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp Badge"/>
+</a>
+<a href="https://t.me/Zorger27">
+<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" title="Telegram"/>
+</a><br><br>
+<a href="https://www.linkedin.com/in/anatolii-zorin/" title="My LinkedIn profile..." target="_blank">
+    <img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="LinkedIn"/>
+</a>
+<a href="https://facebook.com/Anatoliy.Zorin" title="My Facebook profile..." target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+</a>
+<a href="https://www.youtube.com/c/AnatoliiZorin" title="My YouTube channel..." target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
+</a>
+<a href="https://profile.codersrank.io/user/zorger27" title="My CodersRank profile..." target="_blank">
+<img src="https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=CodersRank&logoColor=white" alt="CodersRank Badge"/>
+</a>
+<a href="https://pinterest.com/zorger27" title="My Pinterest profile..." target="_blank">
+    <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest Badge"/>
+</a>
 
 <h2 align="left">🛠️ Languages and Tools:</h2>
 
