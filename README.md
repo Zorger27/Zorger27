@@ -5,7 +5,9 @@
 <h2 align="left">👨‍💻 About Me:</h2>
 <h3 align="left">
 I am a Frontend Developer (Vue.js).<br>
-My languages: 🇬🇧 English - B2 | 🇪🇸 Spanish - B2
+My languages: 
++ 🇬🇧 English - B2
++ 🇪🇸 Spanish - B2
 </h3>
 
 <h2 align="left">📫 Connect with me:</h2>
