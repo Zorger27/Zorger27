@@ -9,15 +9,15 @@ My languages: 🇬🇧 English - B2 | 🇪🇸 Spanish - B2
 </h3>
 
 <h2 align="left">📫 Connect with me:</h2>
+<a href="mailto:zorger27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" title="Gmail"/></a>
 <a href="https://www.linkedin.com/in/anatolii-zorin/"><img src="https://img.shields.io/badge/Linkedin-blue?logo=linkedin&style=for-the-badge" alt="linkedin" title="LinkedIn"/></a>
 <a href="https://profile.codersrank.io/user/zorger27"><img src="https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=CodersRank&logoColor=white" alt="CodersRank Badge" title="CodersRank"/></a>
 <a href="https://www.youtube.com/c/AnatoliiZorin"><img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge" title="Youtube"/></a>
 <a href="https://facebook.com/Anatoliy.Zorin"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge" title="Facebook"/></a>
 <a href="https://pinterest.com/zorger27"><img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest Badge" title="Pinterest"/></a>
+<a href="https://t.me/Zorger27"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" title="Telegram"/></a>
 <a href="https://wa.me/380504411801"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" alt="WhatsApp Badge" title="WhatsApp"/></a>
 <a href="skype:anatoliy.zorin?chat"><img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype Badge" title="Skype"/></a>
-<a href="https://t.me/Zorger27"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge" title="Telegram"/></a>
-<a href="mailto:zorger27@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" title="Gmail"/></a>
 
 <h2 align="left">🛠️ Languages and Tools:</h2>
 
