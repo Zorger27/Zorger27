@@ -10,7 +10,6 @@ My languages:
 * Spanish 🇪🇸 - Upper-Intermediate (B2)
 </b>
 
-
 <h2 align="left">📫 Connect with me:</h2>
 <a href="mailto:zorger27@gmail.com" title="Write me: Zorger27@GMail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
@@ -39,18 +38,45 @@ My languages:
 
 <h2 align="left">🛠️ Languages and Tools:</h2>
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeSctipt-316192?style=for-the-badge&logo=typescript&logoColor=white)
-![Pug](https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black)
-![Sass](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Axios](https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white)
-![Vuejs](https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Gatsby](https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white)
-![Threejs](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5...">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3...">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge"/>
+</a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript...">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge"/>
+</a>
+<a href="https://www.typescriptlang.org" title="TypeScript...">
+    <img src="https://img.shields.io/badge/TypeScript-316192?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge"/>
+</a>
+<a href="https://pugjs.org" title="Pug...">
+    <img src="https://img.shields.io/badge/Pug-E3C29B?style=for-the-badge&logo=pug&logoColor=black" alt="Pug Badge"/>
+</a>
+<a href="https://sass-lang.com" title="Sass...">
+    <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass Badge"/>
+</a>
+<a href="https://nodejs.org" title="Node.js...">
+    <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js Badge"/>
+</a>
+<a href="https://www.npmjs.com" title="NPM...">
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM Badge"/>
+</a>
+<a href="https://axios-http.com" title="Axios...">
+    <img src="https://img.shields.io/badge/axios-671ddf?&style=for-the-badge&logo=axios&logoColor=white" alt="Axios Badge"/>
+</a>
+<a href="https://cli.vuejs.org" title="Vue.js...">
+    <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js Badge"/>
+</a>
+<a href="https://www.gatsbyjs.com" title="Gatsby...">
+    <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby Badge"/>
+</a>
+<a href="https://threejs.org" title="Three.js...">
+    <img src="https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white" alt="Three.js Badge"/>
+</a>
+
+
+
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
@@ -85,6 +111,9 @@ My languages:
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zorger27&theme=buefy)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Zorger27&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
+
+<h1 align="center">
+</h1>
 
 ![image]({BadgeURLHere})
 <img src="{BadgeURLHere}" />
