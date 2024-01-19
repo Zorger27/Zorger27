@@ -144,7 +144,10 @@ My languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zorger27&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Anatolii Zorin profile views](https://u8views.com/api/v1/github/profiles/30940416/views/day-week-month-total-count.svg)](https://u8views.com/github/Zorger27)
 <!--
+![](https://github-readme-stats.vercel.app/api?username=Zorger27&show_icons=true&theme=transparent")
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Frontend+Developer+(Vue.js)+from+Ukraine)](https://git.io/typing-svg)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zorger27&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zorger27&theme=buefy)
