@@ -29,12 +29,16 @@ My languages:
 <a href="https://www.youtube.com/c/AnatoliiZorin" title="My YouTube channel...">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
 </a>
-<a href="https://profile.codersrank.io/user/zorger27" title="My CodersRank profile...">
-    <img src="https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=CodersRank&logoColor=white" alt="CodersRank Badge"/>
-</a>
 <a href="https://pinterest.com/zorger27" title="My Pinterest profile...">
     <img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" alt="Pinterest Badge"/>
 </a>
+
+[//]: # (<a href="https://profile.codersrank.io/user/zorger27" title="My CodersRank profile...">)
+
+[//]: # (    <img src="https://img.shields.io/badge/CodersRank-67A4AC?style=for-the-badge&logo=CodersRank&logoColor=white" alt="CodersRank Badge"/>)
+
+[//]: # (</a>)
+
 
 <h2 align="left">🛠️ Languages and Tools:</h2>
 
@@ -67,6 +71,12 @@ My languages:
 </a>
 <a href="https://cli.vuejs.org" title="Vue.js...">
     <img src="https://img.shields.io/badge/Vue%20js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js Badge"/>
+</a>
+<a href="https://react.dev" title="React...">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
+</a>
+<a href="https://redux-toolkit.js.org" title="Redux Toolkit...">
+    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit Badge"/>
 </a>
 <a href="https://www.gatsbyjs.com" title="Gatsby...">
     <img src="https://img.shields.io/badge/Gatsby-663399?style=for-the-badge&logo=gatsby&logoColor=white" alt="Gatsby Badge"/>
