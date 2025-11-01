@@ -3,7 +3,7 @@
 </h1>
 
 <h2 align="left">👨‍💻 About Me:</h2>
-<b align="left">I am a Frontend Developer (Vue.js | Three.js) with great experience in Digital Marketing.<br>
+<b align="left">I am a Frontend Developer (Vue.js, React, Three.js) with great experience in Digital Marketing.<br>
 My languages:
   
 * English 🇬🇧 - Upper-Intermediate (B2)
