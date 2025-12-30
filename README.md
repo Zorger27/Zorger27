@@ -4,7 +4,7 @@
 
 <h2 align="left">👨‍💻 About Me:</h2>
 <b align="left">3D Frontend Developer (React, Three.js, R3F, WebGL) | Immersive Web Experiences | Digital Marketing Expert | Former C-level Executive<br>
-
+<br>
 <ins>My languages:</ins><br>
 ✅ English 🇬🇧 - Upper-Intermediate (B2)<br>
 ✅ Spanish 🇪🇸 - Upper-Intermediate (B2)
