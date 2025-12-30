@@ -3,11 +3,11 @@
 </h1>
 
 <h2 align="left">👨‍💻 About Me:</h2>
-<b align="left">I am a Frontend Developer (Vue.js, React, Three.js) with great experience in Digital Marketing.<br>
-My languages:
-  
-* English 🇬🇧 - Upper-Intermediate (B2)
-* Spanish 🇪🇸 - Upper-Intermediate (B2)
+<b align="left">3D Frontend Developer (React, Three.js, R3F, WebGL) | Immersive Web Experiences | Digital Marketing Expert | Former C-level Executive<br>
+
+<ins>My languages:</ins><br>
+✅ English 🇬🇧 - Upper-Intermediate (B2)<br>
+✅ Spanish 🇪🇸 - Upper-Intermediate (B2)
 </b>
 
 <h2 align="left">📫 Connect with me:</h2>
